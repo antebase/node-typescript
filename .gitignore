@@ -1,0 +1,14 @@
+
+# Ignore NPM Artifacts 
+node_modules/
+package-lock.json
+
+# Ignore Build Artifacts
+build/
+dist/
+
+# Ignore Log Files
+*.log
+
+# Ignore Jetbraisn project Files
+.idea 
